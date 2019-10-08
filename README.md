@@ -1,2 +1,2 @@
-<Update scheduled>
+Update scheduled...
 Who is DG
